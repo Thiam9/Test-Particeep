@@ -1,0 +1,27 @@
+.card{
+    width: 20rem;
+    height: 20rem;
+    display:inline-flex;
+    margin: 3px;
+    
+}
+.card-title{
+    font-weight: bold;
+}
+
+.btn{
+    margin: 20px;
+}
+.btnToggle{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+   
+}
+
+.btnSup{
+    position: absolute;
+    right: 2px;
+    bottom: 4px;
+    cursor: pointer;
+}
